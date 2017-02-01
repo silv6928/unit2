@@ -1,0 +1,362 @@
+0þDeveloper Agreement & Policy¶  Developer Agreement¶  Effective: September 30, 2016.þ5.538461538461538
+1þThis Twitter Developer Agreement (“Agreement”) is made between you (either an individual or an entity, referred to herein as “you”) and Twitter, Inc. and Twitter International Company (collectively, “Twitter”) and governs your access to and use of the Licensed Material (as defined below).þ4.490909090909091
+2þPLEASE READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY, INCLUDING WITHOUT LIMITATION ANY LINKED TERMS AND CONDITIONS APPEARING OR REFERENCED BELOW, WHICH ARE HEREBY MADE PART OF THIS LICENSE AGREEMENT.þ5.323529411764706
+3þBY USING THE LICENSED MATERIAL, YOU ARE AGREEING THAT YOU HAVE READ, AND THAT YOU AGREE TO COMPLY WITH AND TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT AND ALL APPLICABLE LAWS AND REGULATIONS IN THEIR ENTIRETY WITHOUT LIMITATION OR QUALIFICATION.þ4.595744680851064
+4þIF YOU DO NOT AGREE TO BE BOUND BY THIS AGREEMENT, THEN YOU MAY NOT ACCESS OR OTHERWISE USE THE LICENSED MATERIAL.þ3.875
+5þTHIS AGREEMENT IS EFFECTIVE AS OF THE FIRST DATE THAT YOU USE THE LICENSED MATERIAL (“EFFECTIVE DATE”).þ4.35
+6þIF YOU ARE AN INDIVIDUAL REPRESENTING AN ENTITY, YOU ACKNOWLEDGE THAT YOU HAVE THE APPROPRIATE AUTHORITY TO ACCEPT THIS AGREEMENT ON BEHALF OF SUCH ENTITY.þ4.851851851851852
+7þYOU MAY NOT USE THE LICENSED MATERIAL AND MAY NOT ACCEPT THIS AGREEMENT IF YOU ARE NOT OF LEGAL AGE TO FORM A BINDING CONTRACT WITH TWITTER, OR YOU ARE BARRED FROM USING OR RECEIVING THE LICENSED MATERIAL UNDER APPLICABLE LAW.þ4.325581395348837
+8þI. Twitter API and Twitter Content¶  A. Definitions   1.þ4.5
+9þContent ‒ Tweets, Tweet IDs, Twitter end user profile information, and any     other data and information made available to you through the Twitter API or     by any other means authorized by Twitter, and any copies and derivative     works thereof.þ4.5227272727272725
+10þ2.þ1.0
+11þDeveloper Site ‒ Twitter’s developer site located at https://     dev.twitter.com.þ5.3076923076923075
+12þ3.þ1.0
+13þEnd Users ‒ Users of your Services, who are bound to enforceable service     terms with you.þ4.055555555555555
+14þ4.þ1.0
+15þLicensed Material ‒ A collective term for the Twitter API and Content.þ4.538461538461538
+16þ5.þ1.0
+17þServices ‒ Your websites, applications and other offerings that display     Content or otherwise use the Licensed Material.þ5.421052631578948
+18þ6.þ1.0
+19þTweet ID ‒ A unique identification number generated for each Tweet.þ4.75
+20þ7.þ1.0
+21þTweet ‒ a short-form text and/or multimedia-based posting that is publicly     displayed on Twitter Services.þ5.6875
+22þ8.þ1.0
+23þTwitter API ‒ The Twitter Application Programming Interface (“API”),     Software Development Kit (“SDK”) and/or the related documentation, data,     code, and other materials provided by Twitter with the API, as updated from     time to time, including without limitation through the Developer Site.þ4.769230769230769
+24þ9.þ1.0
+25þTwitter Marks ‒ The Twitter name, or logos that Twitter makes available to     you, including via the Developer Site.þ4.318181818181818
+26þ10.þ1.5
+27þTwitter Services ‒ Twitter’s offerings and platforms, including without     limitation, those offered via http://twitter.com and Twitter’s mobile     application.þ5.956521739130435
+28þB.þ1.0
+29þLicense from Twitter.þ4.75
+30þSubject to the terms and conditions in this Agreement (as a condition to the grant below), Twitter hereby grants you and you accept a non-exclusive, royalty free, non-transferable, non-sublicensable, revocable license during the Term solely to:   1.þ4.586956521739131
+31þUse the Twitter API to develop and implement your Services;  2.þ4.0
+32þCopy a reasonable amount of and display the Content on and through your     Services to End Users, as permitted by this Agreement;  3.þ4.115384615384615
+33þModify Content only to format it for display on your Services; and  4.þ3.8
+34þUse and display Twitter Marks, solely to attribute Twitter’s offerings as     the source of the Content, as set forth herein.þ4.434782608695652
+35þC. Incorporated Terms.þ5.0
+36þYour use of the Licensed Material is further subject to and governed by the following terms and conditions:   1. the Twitter Developer Policy located at https://dev.twitter.com/overview/     terms/policy (“Developer Policy”);  2. as it relates to your display of any of the Content, the Display     Requirements located at https://dev.twitter.com/terms/display-requirements     (“Display Requirements”);  3. as it relates to your use and display of the Twitter Marks, the Twitter     Brand Assets and Guidelines located at https://twitter.com/logo (“Brand     Guidelines”); and  4. as it relates to taking automated actions on your account, the Automation     Rules located at https://support.twitter.com/articles/76915 (“Automation     Rules”).þ5.299145299145299
+37þThe Developer Policy, Display Requirements, Brand Guidelines, and Automation Rules are collectively referred to herein as the “Developer Terms”.þ5.478260869565218
+38þYou agree to the Developer Terms, which are hereby incorporated by reference and are available in hardcopy upon request to Twitter.þ4.826086956521739
+39þIn the event of a conflict between the Developer Terms and this Agreement, this Agreement shall control.þ4.631578947368421
+40þNone of the Developer Terms expand or extend the license to the Twitter API, Content or Twitter Marks granted in this Agreement.þ4.458333333333333
+41þII.þ1.5
+42þRestrictions on Use of Licensed Materials¶   A.þ4.875
+43þReverse Engineering and other Limitations.þ6.333333333333333
+44þYou will not or attempt to (and     will not allow others to) 1) reverse engineer, decompile, disassemble or     translate the Twitter API, or otherwise attempt to derive source code,     trade secrets or know-how in or underlying any Twitter API or any portion     thereof; 2) interfere with, modify, disrupt or disable features or     functionality of the Twitter API, including without limitation any such     mechanism used to restrict or control the functionality, or defeat, avoid,     bypass, remove, deactivate or otherwise circumvent any software protection     or monitoring mechanisms of the Twitter API; 3) sell, rent, lease,     sublicense, distribute, redistribute, syndicate, create derivative works     of, assign or otherwise transfer or provide access to, in whole or in part,     the Licensed Material to any third party except as expressly permitted     herein; 4) provide use of the Twitter API on a service bureau, rental or     managed services basis or permit other individuals or entities to create     links to the Twitter API or "frame" or "mirror" the Twitter API on any     other server, or wireless or Internet-based device, or otherwise make     available to a third party, any token, key, password or other login     credentials to the Twitter API; or 5) use the Licensed Material for any     illegal, unauthorized or other improper purposes.þ4.408
+45þB.þ1.0
+46þRate Limits.þ3.6666666666666665
+47þYou will not attempt to exceed or circumvent limitations on     access, calls and use of the Twitter API ("Rate Limits"), or otherwise use     the Twitter API in a manner that exceeds reasonable request volume,     constitutes excessive or abusive usage, or otherwise fails to comply or is     inconsistent with any part of this Agreement.þ4.403225806451613
+48þIf you exceed or Twitter     reasonably believes that you have attempted to circumvent Rate Limits,     controls to limit use of the Twitter APIs or the terms and conditions of     this Agreement, then your ability to use the Licensed Materials may be     temporarily suspended or permanently blocked.þ4.8979591836734695
+49þTwitter may monitor your use     of the Twitter API to improve the Twitter Service and to ensure your     compliance with this Agreement.þ4.695652173913044
+50þC. Geographic Data.þ4.25
+51þYour license to use Content in this Agreement does not     allow you to (and you will not allow others to) aggregate, cache, or store     location data and other geographic information contained in the Content,     except in conjunction with the Content to which it is attached.þ4.352941176470588
+52þYour     license only allows you to use such location data and geographic     information to identify the location tagged by the Content.þ4.954545454545454
+53þAny use of     location data or geographic information on a standalone basis or beyond the     license granted herein is a breach of this Agreement.þ4.68
+54þD. Use of Twitter Marks.þ3.3333333333333335
+55þThe Twitter Marks may not be included in or as part     of your registered corporate name, any of your logos, or any of your     service or product names.þ3.838709677419355
+56þMoreover, you may not create any derivative works     of the Twitter Marks or use the Twitter Marks in a manner that creates or     reasonably implies an inaccurate sense of endorsement, sponsorship, or     association with Twitter.þ4.769230769230769
+57þYou will not otherwise use business names and/or     logos in a manner that can mislead, confuse, or deceive users of your     Services.þ4.28
+58þAll use of the Twitter Marks and all goodwill arising out of such     use, will inure to Twitter’s benefit.þ4.0476190476190474
+59þYou shall not use the Twitter Marks     except as expressly authorized herein without Twitter’s prior consent.þ5.352941176470588
+60þYou     will not remove or alter any proprietary notices or Twitter Marks on the     Licensed Material.þ4.705882352941177
+61þIII.þ2.0
+62þUpdates¶  You acknowledge that Twitter may update or modify the Twitter APIs from time to time, and at its sole discretion (in each instance, an “Update”).þ4.161290322580645
+63þYou are required to implement and use the most current version of the Twitter API and to make any changes to your Services that are required as a result of such Update, at your sole cost and expense.þ4.05
+64þUpdates may adversely affect the manner in which your Services access or communicate with the Twitter API or display Content.þ5.0476190476190474
+65þYour continued access or use of the Twitter APIs following an update or modification will constitute binding acceptance of the Update.þ5.181818181818182
+66þIV.þ1.5
+67þOwnership and Feedback¶   A.þ4.6
+68þOwnership.þ5.0
+69þThe Licensed Materials are licensed, not sold, and Twitter     retains and reserves all rights not expressly granted in this Agreement.þ4.869565217391305
+70þYou expressly acknowledge that Twitter, its licensors and its end users     retain all worldwide right, title and interest in and to the Licensed     Material and Content, including all rights in patents, trademarks, trade     names, copyrights, trade secrets, know-how, data (including all     applications therefor), and all proprietary rights under the laws of the     United States, any other jurisdiction or any treaty ("IP Rights").þ4.4875
+71þYou     agree not to do anything inconsistent with such ownership, including     without limitation, challenging Twitter’s ownership of the Twitter Marks,     challenging the validity of the licenses granted herein, or otherwise     copying or exploiting the Twitter Marks during or after the termination of     this Agreement, except as specifically authorized herein.þ5.472727272727273
+72þIf you acquire     any rights in the Twitter Marks or any confusingly similar marks, by     operation of law or otherwise, you will, at no expense to Twitter,     immediately assign such rights to Twitter.þ4.2368421052631575
+73þB.þ1.0
+74þFeedback.þ4.5
+75þYou may provide Twitter with comments concerning the Licensed     Material, Services or your evaluation and use thereof (collectively, "     Feedback).þ5.0
+76þYou hereby grant Twitter all rights, title and ownership of such     Feedback (including all intellectual property rights therein), and Twitter     may use the Feedback for any and all commercial and non-commercial purposes     with no obligation of any kind to you.þ4.777777777777778
+77þV. Termination¶  Twitter may immediately terminate or suspend this Agreement, any rights granted herein, and/or your license to the Licensed Materials, at its sole discretion at any time, for any reason by providing notice to you.þ4.7317073170731705
+78þYou may terminate this Agreement at any time by ceasing your access to the Twitter API and use of all Twitter Content.þ4.217391304347826
+79þUpon termination of this Agreement, all licenses granted herein immediately expire and you must cease use of all Licensed Materials.þ5.136363636363637
+80þThe parties to this Agreement will not be liable to each other for any damages resulting solely from termination of this Agreement as permitted under this Agreement.þ4.964285714285714
+81þSections II, IV, V, VI and VII of this Agreement will survive the termination of this Agreement.þ3.8095238095238093
+82þVI.þ1.5
+83þConfidentiality¶  You may be given access to certain non-public information, software, and specifications relating to the Licensed Material (“Confidential Information”), which is confidential and proprietary to Twitter.þ5.818181818181818
+84þYou may use this Confidential Information only as necessary in exercising your rights granted in this Agreement.þ5.333333333333333
+85þYou may not disclose any of this Confidential Information to any third party without Twitter’s prior written consent.þ5.2631578947368425
+86þYou agree that you will protect this Confidential Information from unauthorized use, access, or disclosure in the same manner that you would use to protect your own confidential and proprietary information of a similar nature and in no event with less than a reasonable degree of care.þ4.78
+87þVII.þ2.0
+88þOther Important Terms¶   A.þ4.4
+89þUser Protection.þ5.0
+90þYou will not knowingly: 1) display, distribute, or     otherwise make available Content to any entity to investigate, track or     surveil Twitter’s users or their Content, or to obtain information on     Twitter users or their Content, in a manner that would require a subpoena,     court order, or other valid legal process or that would otherwise have the     potential to be inconsistent with our users’ reasonable expectations of     privacy; or 2) display, distribute or otherwise make available Content to     any person or entity that you reasonably believe will use such data to     violate the Universal Declaration of Human Rights (located at http://     www.un.org/en/documents/udhr/), including without limitation Articles 12,     18, or 19.þ4.6976744186046515
+91þIf law enforcement personnel request information about Twitter     or its users for the purposes of an ongoing investigation, you may refer     them to Twitter’s Guidelines for Law Enforcement located at https://t.co/le     .þ5.2
+92þYou will not conduct and your Services will not provide analyses or     research that isolates a small group of individuals or any single     individual for any unlawful or discriminatory purposes.þ5.161290322580645
+93þB.þ1.0
+94þAdditional Terms for Permitted Government Use.þ5.857142857142857
+95þThe Twitter API and Twitter     Content are "commercial items" as that term is defined at 48 C.F.R.þ4.05
+96þ2.101,     consisting of "commercial computer software" and "commercial computer     software documentation" as such terms are used in 48 C.F.R.þ4.88
+97þ12.212.þ3.5
+98þAny     use, modification, derivative, reproduction, release, performance, display,     disclosure or distribution of the Twitter API or Twitter Content by any     government entity is prohibited, except as expressly permitted by the terms     of this Agreement.þ4.953488372093023
+99þAdditionally, any use by U.S. government entities must     be in accordance with 48 C.F.R.þ4.5625
+100þ12.212 and 48 C.F.R.þ3.4
+101þ227.7202-1 through     227.7202-4.þ7.0
+102þIf you use the Twitter API or Twitter Content in your official     capacity as an employee or representative of a U.S., state or local     government entity and you are legally unable to accept the indemnity,     jurisdiction, venue or other clauses herein, then those clauses do not     apply to such entity, but only to the extent as required by applicable law.þ4.363636363636363
+103þFor the purpose of this provision, contractor/manufacturer is Twitter,     Inc., 1355 Market Street, Suite 900, San Francisco, California 94103.þ4.6923076923076925
+104þC. Compliance with Laws; Export and Import.þ4.111111111111111
+105þEach party will comply with all     applicable foreign, federal, state, and local laws, rules and regulations.þ4.333333333333333
+106þThe Licensed Material is subject to U.S. export laws and may be subject to     import and use laws of the country where it is delivered or used.þ4.071428571428571
+107þYou agree     to abide by these laws.þ3.375
+108þUnder these laws, the Licensed Material may not be     sold, leased, downloaded, moved, exported, re-exported, or transferred     across borders without a license, or approval from the relevant government     authority, to any country or to any foreign national restricted by these     laws, including countries embargoed by the U.S. Government (currently Cuba,     Iran, North Korea, Northern Sudan and Syria); or to any restricted or     denied end-user including, but not limited to, any person or entity     prohibited by the U.S. Office of Foreign Assets Control; or for any     restricted end-use.þ4.5327102803738315
+109þYou will maintain throughout the Term all rights and     licenses that are required with respect to your Services.þ4.894736842105263
+110þD. Warranty Disclaimer.þ5.25
+111þTHE LICENSED MATERIAL IS PROVIDED TO YOU “AS IS”,     “WHERE IS”, WITH ALL FAULTS AND EACH PARTY DISCLAIMS ALL WARRANTIES,     WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT     LIMITATION WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A     PARTICULAR PURPOSE, AND ANY WARRANTIES OR CONDITIONS ARISING OUT OF THIS     AGREEMENT, COURSE OF DEALING OR USAGE OF TRADE.þ4.880597014925373
+112þTWITTER DOES NOT WARRANT     THAT THE LICENSED MATERIAL OR ANY OTHER TWITTER PRODUCT OR SERVICE PROVIDED     HEREUNDER WILL MEET ANY OF YOUR REQUIREMENTS OR THAT USE OF SUCH LICENSED     MATERIAL OR OTHER PRODUCTS OR SERVICES WILL BE ERROR-FREE, UNINTERRUPTED,     VIRUS-FREE OR SECURE.þ5.088888888888889
+113þTHIS DISCLAIMER OF WARRANTY MAY NOT BE VALID IN SOME     JURISDICTIONS AND YOU MAY HAVE WARRANTY RIGHTS UNDER LAW WHICH MAY NOT BE     WAIVED OR DISCLAIMED.þ4.555555555555555
+114þANY SUCH WARRANTY EXTENDS ONLY FOR THIRTY (30) DAYS     FROM THE EFFECTIVE DATE OF THIS AGREEMENT (UNLESS SUCH LAW PROVIDES     OTHERWISE).þ4.269230769230769
+115þE. Indemnification.þ6.0
+116þYou shall defend Twitter against any and all actions,     demands, claims and suits (including without limitation product liability     claims), and indemnify and hold Twitter harmless from any and all     liabilities, damages and costs (including without limitation reasonable     attorneys’ fees) to the extent arising out of: (i) your use of the Licensed     Material in any manner that is inconsistent with this Agreement; or (ii)     the performance, promotion, sale or distribution of your Services.þ4.606741573033708
+117þIn the     event Twitter seeks indemnification or defense from you under this     provision, Twitter will promptly notify you in writing of the claim(s)     brought against Twitter for which it seeks indemnification or defense.þ4.815789473684211
+118þTwitter reserves the right, at its option and sole discretion, to assume     full control of the defense of claims with legal counsel of its choice.þ4.285714285714286
+119þYou     may not enter into any third party agreement, which would, in any manner     whatsoever, affect the rights of Twitter, constitute an admission of fault     by Twitter or bind Twitter in any manner, without the prior written consent     of Twitter.þ4.3478260869565215
+120þIn the event Twitter assumes control of the defense of such     claim, Twitter shall not settle any such claim requiring payment from you     without your prior written approval.þ4.766666666666667
+121þF. Limitation of Liability.þ4.8
+122þIN NO EVENT WILL TWITTER BE LIABLE TO YOU OR ANY     END USERS FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR     CONSEQUENTIAL DAMAGES OR ANY LOSS OF OR DAMAGE TO USE, DATA, BUSINESS,     GOODWILL OR PROFITS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.þ4.150943396226415
+123þIN     ANY CASE, TWITTER’S AGGREGATE LIABILITY FOR ANY AND ALL CLAIMS UNDER THIS     AGREEMENT WILL NOT EXCEED $50.00 USD.þ4.363636363636363
+124þTHE FOREGOING LIMITATIONS, EXCLUSIONS     AND DISCLAIMERS SHALL APPLY REGARDLESS OF WHETHER SUCH LIABILITY ARISES     FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE),     STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT THE PARTY HAS BEEN     ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE.þ4.90566037735849
+125þINSOFAR AS APPLICABLE     LAW PROHIBITS ANY LIMITATION ON LIABILITY HEREIN, THE PARTIES AGREE THAT     SUCH LIMITATION WILL BE AUTOMATICALLY MODIFIED, BUT ONLY TO THE EXTENT SO     AS TO MAKE THE LIMITATION COMPLIANT WITH APPLICABLE LAW.þ5.026315789473684
+126þTHE PARTIES AGREE     THAT THE LIMITATIONS ON LIABILITIES SET FORTH HEREIN ARE AGREED ALLOCATIONS     OF RISK AND SUCH LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF     ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.þ5.46875
+127þG. Updates.þ3.3333333333333335
+128þTwitter may update or modify this Agreement, Developer Terms, and     other terms and conditions, from time to time at its sole discretion by     posting the changes on this site or by otherwise notifying you (such notice     may be via email).þ4.195652173913044
+129þYou acknowledge that these updates and modifications may     adversely affect how your Service accesses or communicates with the Twitter     API.þ5.619047619047619
+130þIf any change is unacceptable to you, your only recourse is to cease     all use of the Licensed Material.þ4.0
+131þYour continued access or use of the     Licensed Material will constitute binding acceptance of the such updates     and modifications.þ5.45
+132þH. Miscellaneous.þ5.333333333333333
+133þThis Agreement constitutes the entire agreement among the     parties with respect to the subject matter and supersedes and merges all     prior proposals, understandings and contemporaneous communications.þ6.178571428571429
+134þAny     modification to this Agreement must be in a writing signed by both you and     Twitter, Inc. You may not assign any of the rights or obligations granted     hereunder, in whole or in part, whether voluntarily or by operation of law,     contract, merger (whether you are the surviving or disappearing entity),     stock or asset sale, consolidation, dissolution, through government action     or otherwise, except with the prior written consent of Twitter,     Inc. Twitter, Inc. is authorized to sign modifications and consents on     behalf of Twitter International Company, an Irish company responsible for     the information of Twitter users who live outside the United States.þ4.686440677966102
+135þAny     attempted assignment in violation of this paragraph is null and void, and     Twitter may terminate this Agreement.þ4.9
+136þThis Agreement does not create or     imply any partnership, agency or joint venture.þ4.6
+137þThis Agreement will be     governed by and construed in accordance with the laws of the State of     California, without regard to or application of conflicts of law rules or     principles.þ4.65625
+138þAll claims arising out of or relating to this Agreement will be     brought exclusively in the federal or state courts of San Francisco County,     California, USA, and you consent to personal jurisdiction in those courts.þ4.615384615384615
+139þDespite the foregoing, you agree that money damages would be an inadequate     remedy for Twitter in the event of a breach or threatened breach of a     provision of this Agreement protecting Twitter’s intellectual property or     Confidential Information, and that in the event of such a breach or threat,     Twitter, in addition to any other remedies to which it is entitled, is     entitled to such preliminary or injunctive relief (including an order     prohibiting Company from taking actions in breach of such provisions),     without the need for posting bond, and specific performance as may be     appropriate.þ4.769230769230769
+140þThe parties agree that neither the United Nations Convention     on Contracts for the International Sale of Goods, nor the Uniform Computer     Information Transaction Act (UCITA) shall apply to this Agreement,     regardless of the states in which the parties do business or are     incorporated.þ4.979166666666667
+141þNo waiver by Twitter of any covenant or right under this     Agreement will be effective unless memorialized in a writing duly     authorized by Twitter.þ4.88
+142þIf any part of this Agreement is determined to be     invalid or unenforceable by a court of competent jurisdiction, that     provision will be enforced to the maximum extent permissible and the     remaining provisions of this Agreement will remain in full force and     effect.þ4.911111111111111
+143þDeveloper Policy¶  Effective: September 30, 2016.þ4.777777777777778
+144þIn addition to the Developer Agreement, this Developer Policy (“Policy”) provides rules and guidelines for developers who interact with Twitter’s ecosystem of applications, services, website, web pages and content (“Twitter Services”).þ5.125
+145þPolicy violations are also considered violations of the Developer Agreement.þ6.090909090909091
+146þTake a look at the Definitions for the meaning of capitalized words used in this Policy.þ4.294117647058823
+147þThese policies may be changed from time to time without notice.þ4.416666666666667
+148þPlease check here for any updates.þ4.142857142857143
+149þ• I.þ1.0
+150þGuiding Principles       □ A.þ4.0
+151þA Few Key Points       □ B.þ2.2857142857142856
+152þMaintain the Integrity of Twitter’s Products       □ C. Respect Users’ Control and Privacy       □ D. Clearly Identify Your Service       □ E. Keep Twitter Spam Free       □ F. Be a Good Partner to Twitter       □ G. Avoid Replicating the Core Twitter Experience       □ H. Engage in Appropriate Commercial Use   • II.þ4.529411764705882
+153þRules for Specific Twitter Services or Features       □ A. Twitter Login       □ B.þ4.214285714285714
+154þSocial Updates       □ C. Twitter Identity       □ D. Twitter Cards       □ E. Twitter for Websites       □ F. Definitions  I.þ4.15
+155þGuiding Principles¶  A.þ5.0
+156þA Few Key Points¶   1.þ2.6666666666666665
+157þKeep any API keys or other access credentials private and use only as     permitted.þ4.466666666666667
+158þ2.þ1.0
+159þRespect our requirements on how to display and interact with users’     content.þ5.0
+160þ3.þ1.0
+161þIf your application will need more than 1 million user tokens, you must     contact us about your Twitter API access, as you may be subject to     additional terms.þ4.161290322580645
+162þ4.þ1.0
+163þTwitter may monitor your use of the Twitter API to improve the Twitter     Services, examine commercial use and ensure your compliance with this     Policy.þ4.8076923076923075
+164þ5.þ1.0
+165þRemember, Twitter may suspend or revoke access to the Twitter API if we     believe you are in violation of this Policy.þ4.173913043478261
+166þDo not apply for or register     additional API tokens if Twitter has suspended your account.þ4.6875
+167þInstead,     contact us.þ3.6
+168þB.þ1.0
+169þMaintain the Integrity of Twitter’s Products¶   1.þ5.25
+170þFollow the Display Requirements and Twitter Rules.þ5.5
+171þIf your Service     facilitates or induces users to violate the Twitter Rules, you must figure     out how to prevent the abuse or Twitter may suspend or terminate your     access to the Twitter API.þ4.428571428571429
+172þWe’ve provided guidance in our Abuse Prevention     and Security help page.þ5.083333333333333
+173þ2.þ1.0
+174þIf your Service submits content to Twitter that includes a Twitter     username, submit the correct Twitter username (“@username”).þ4.583333333333333
+175þ3.þ1.0
+176þPromptly respond to Content changes reported through the Twitter API, such     as deletions or the public/protected status of Tweets.þ5.285714285714286
+177þ4.þ1.0
+178þDo not modify, translate or delete a portion of the Content.þ3.8461538461538463
+179þ5.þ1.0
+180þMaintain the features and functionality of Content and Twitter API.þ5.2727272727272725
+181þDo not     interfere with, intercept, disrupt, filter, or disable any features of     Twitter or the Twitter API, including the Content of embedded Tweets and     embedded timelines.þ4.53125
+182þ6.þ1.0
+183þOnly surface Twitter activity as it surfaced on Twitter.þ4.8
+184þFor example, your     Service should execute the unlike and delete actions by removing all     relevant Content, not by publicly displaying to other users that the Tweet     is no longer liked or has been deleted.þ4.54054054054054
+185þ7.þ1.0
+186þDo not exceed or circumvent limitations on access, calls, sharing, privacy     settings, or use permitted in this Policy, or as otherwise set forth on the     Developer Site, or communicated to you by Twitter.þ4.225
+187þ8.þ1.0
+188þDo not remove or alter any proprietary notices or marks on Content or the     Twitter API.þ4.176470588235294
+189þ9.þ1.0
+190þDo not (and do not allow others to) aggregate, cache, or store location     data and other geographic information contained in the Content, except as     part of a Tweet.þ3.9705882352941178
+191þAny use of location data or geographic information on a     standalone basis is prohibited.þ4.933333333333334
+192þC. Respect Users’ Control and Privacy¶   1.þ4.375
+193þGet the user’s express consent before you do any of the following:      a.þ3.8
+194þTake any actions on a user’s behalf, including posting Content,         following/unfollowing other users, modifying profile information, or         adding hashtags or other data to the user’s Tweets.þ5.129032258064516
+195þA user         authenticating through your Service does not constitute user consent.þ5.5
+196þb. Republish Content accessed by means other than via the Twitter API or         other Twitter tools.þ4.588235294117647
+197þc. Use a user’s Content to promote a commercial product or service, either         on a commercial durable good or as part of an advertisement.þ4.3076923076923075
+198þd. Store non-public Content such as direct messages or other private or         confidential information.þ5.6
+199þe. Share or publish protected Content, private or confidential         information.þ5.5
+200þ2.þ1.0
+201þDo not (and do not permit others to) associate the Content with any person,     household, device, browser, or other individual identifier, unless you or     the entity on whose sole behalf you make such an association do so (a) with     the express opt-in consent of the applicable individual; or (b) based     solely on publicly available data and/or data provided directly by the     applicable individual that the individual would reasonably expect to be     used for that purpose.þ4.3977272727272725
+202þ3.þ1.0
+203þTake all reasonable efforts to do the following, provided that when     requested by Twitter, you must promptly take such actions:      a. Delete Content that Twitter reports as deleted or expired;      b.þ4.472222222222222
+204þChange treatment of Content that Twitter reports is subject to changed         sharing options (e.g., become protected); and      c. Modify Content that Twitter reports has been modified.þ4.806451612903226
+205þ4.þ1.0
+206þIf your Service allows users to post Content to Twitter, then, before     publishing, show the user exactly what will be published, including whether     any geotags will be added to the Content.þ4.361111111111111
+207þ5.þ1.0
+208þIf your Service allows users to post Content to your Service and Twitter,     then, before publishing to the Service:      a.þ4.041666666666667
+209þExplain how you will use the Content;      b.þ3.3
+210þObtain proper permission to use the Content; and      c. Continue to use such Content in accordance with this Policy in         connection with the Content.þ4.615384615384615
+211þ6.þ1.0
+212þDisplay your Service’s privacy policy to users before download,     installation or sign up of your application.þ5.166666666666667
+213þYour privacy policy must be     consistent with all applicable laws, and be no less protective of end users     than Twitter’s Privacy Policy located at http://twitter.com/privacy.þ5.103448275862069
+214þYou     must comply with your privacy policy, which must clearly disclose the     information you collect from users, how you use and share that information     (including with Twitter), and how users can contact you with inquiries and     requests regarding their information.þ4.826086956521739
+215þIf for any reason you are unable to     comply with your privacy policy or any privacy requirement of the Developer     Agreement or Policy, you must promptly inform Twitter and take reasonable     and appropriate steps to remedy any non-compliance, or cease your access to     the Twitter API and use of all Twitter Content.þ4.6909090909090905
+216þ7.þ1.0
+217þIf your Service uses cookies, disclose in your privacy policy:      a.þ3.9285714285714284
+218þWhether third parties collect user information on your Service and         across other websites or online services;      b.þ5.0
+219þInformation about user options for cookie management and whether you         honor the Do Not Track setting in supporting web browsers.þ5.142857142857143
+220þ8.þ1.0
+221þIf your Service adds location information to users’ Tweets:      a.þ4.416666666666667
+222þDisclose when you add location information, whether as a geotag or         annotations data, and whether you add a place or specific coordinates.þ4.64
+223þb.þ1.0
+224þComply with Geo Developers Guidelines if your application allows users         to Tweet with their location.þ5.375
+225þ9.þ1.0
+226þDo not store Twitter passwords.þ4.5
+227þD. Clearly Identify Your Service¶   1.þ4.428571428571429
+228þMake sure users understand your identity and the source and purpose of your     Service.þ4.733333333333333
+229þFor example:      a. Don’t use a name or logo that falsely implies you or your company is         related to another business or person.þ4.04
+230þb. Don’t use a shortened URL for your Service that attempts to mask the         destination site      c. Don’t use a URL for your Service that directs users to          i. a site that is unrelated to your Service         ii.þ4.0256410256410255
+231þa site that encourages users to violate the Twitter Rules         iii.þ4.333333333333333
+232þa spam or malware site.þ3.1666666666666665
+233þ2.þ1.0
+234þDo not replicate, frame, or mirror the Twitter website or its design.þ3.8666666666666667
+235þE. Keep Twitter Spam Free¶   1.þ3.4285714285714284
+236þFollow the Abuse and Spam rules here.þ3.875
+237þ2.þ1.0
+238þComply with the automation rules if your Service performs automatic     actions.þ5.5
+239þ3.þ1.0
+240þDo not do any of the following:      a. Mass-register applications.þ4.416666666666667
+241þb.þ1.0
+242þCreate tokens/applications to sell names, prevent others from using         names, or other commercial use.þ5.0588235294117645
+243þc. Use third-party content feeds to update and maintain accounts under         those third parties’ names.þ5.25
+244þd. Name squat by submitting multiple applications with the same function         under different names.þ5.466666666666667
+245þe. Publish links to malicious content.þ4.714285714285714
+246þf. Publish pornographic or obscene images to user profile images and         background images.þ5.357142857142857
+247þF. Be a Good Partner to Twitter¶   1.þ3.111111111111111
+248þFollow the guidelines for using Tweets in broadcast if you display Tweets     offline.þ5.0
+249þ2.þ1.0
+250þIf you provide Content to third parties, including downloadable datasets of     Content or an API that returns Content, you will only distribute or allow     download of Tweet IDs and/or User IDs.þ4.647058823529412
+251þa.þ1.0
+252þYou may, however, provide export via non-automated means (e.g.,         download of spreadsheets or PDF files, or use of a “save as” button) of         up to 50,000 public Tweets and/or User Objects per user of your         Service, per day.þ3.9130434782608696
+253þb.þ1.0
+254þAny Content provided to third parties via non-automated file download         remains subject to this Policy.þ5.4375
+255þ3.þ1.0
+256þUse and display Twitter Marks solely to identify Twitter as the source of     Content.þ4.6
+257þ4.þ1.0
+258þComply with Twitter Brand Assets and Guidelines.þ5.25
+259þ5.þ1.0
+260þDo not do any of the following:      a.þ2.7
+261þUse a single application API key for multiple use cases or multiple         application API keys for the same use case.þ4.380952380952381
+262þb.þ1.0
+263þCharge a premium above your Service’s standard data and usage rates for         access to Content via SMS or USSD.þ4.4
+264þc. Sell or receive monetary or virtual compensation for Tweet actions or         the placement of Tweet actions on your Service, such as, but not         limited to follow, retweet, like, and reply.þ4.108108108108108
+265þd. Do not use, access or analyze the Twitter API to monitor or measure the         availability, performance, functionality, usage statistics or results         of Twitter Services or for any other benchmarking or competitive         purposes, including without limitation, monitoring or measuring:          i. the responsiveness of Twitter Services; or         ii.þ4.964285714285714
+266þaggregate Twitter user metrics such as total number of active             users, accounts, user engagements or account engagements.þ5.15
+267þe. Use Twitter Content, by itself or bundled with third party data, to         target users with advertising outside of the Twitter platform,         including without limitation on other advertising networks, via data         brokers, or through any other advertising or monetization services.þ5.021739130434782
+268þf. Use Twitter Marks, or Twitter Certified Products Program badges, or         similar marks or names in a manner that creates a false sense of         endorsement, sponsorship, or association with Twitter.þ4.6
+269þg. Use the Twitter Verified Account badge, Verified Account status, or any         other enhanced user categorization on Twitter Content other than that         reported to you by Twitter through the API.þ4.818181818181818
+270þG. Avoid Replicating the Core Twitter Experience¶   1.þ5.0
+271þTwitter discourages online services from replicating Twitter Service’s core     user experience or features.þ6.571428571428571
+272þ2.þ1.0
+273þThe following rules apply solely to Services or applications that attempt     to replicate Twitter’s core user experience:      a.þ5.2
+274þYou must obtain our permission to have more than 100,000 user tokens,         and you may be subject to additional terms.þ4.2727272727272725
+275þb.þ1.0
+276þUse the Twitter API as provided by Twitter for functionalities in your         Service that are substantially similar to a Twitter Service feature and         present this to your users as the default option.þ4.878787878787879
+277þc. Display a prominent link or button in your Service that directs new         users to Twitter’s sign-up functionality.þ5.0
+278þd. Do not do the following:          i.þ2.6666666666666665
+279þPay, or offer to pay, third parties for distribution.þ3.75
+280þThis includes             offering compensation for downloads (other than transactional fees)             or other mechanisms of traffic acquisition.þ5.7894736842105265
+281þii.þ1.5
+282þArrange for your Service to be pre-installed on any device,             promoted as a "zero-rated" service, or marketed as part of a             specialized data plan.þ4.206896551724138
+283þiii.þ2.0
+284þUse Twitter Content or other data collected from users to create             or maintain a separate status update or social network database or             service.þ4.916666666666667
+285þH. Engage in Appropriate Commercial Use¶   1.þ4.625
+286þAdvertising Around Twitter Content      a.þ5.5
+287þYou may advertise around and on sites that display Tweets, but you may         not place any advertisements within the Twitter timeline on your         Service other than Twitter Ads or advertisements made available through         the official TwitterKit integration with MoPub.þ5.2926829268292686
+288þAccess to MoPub ads         through TwitterKit requires a MoPub supply account and is subject to         MoPub terms of service & policies.þ4.681818181818182
+289þb.þ1.0
+290þYour advertisements cannot resemble or reasonably be confused by users         as a Tweet.þ4.666666666666667
+291þc. You may advertise in close proximity to the Twitter timeline (e.g.,         banner ads above or below timeline), but there must be a clear         separation between Twitter content and your advertisements.þ4.527777777777778
+292þ2.þ1.0
+293þCompensation      a.þ4.666666666666667
+294þWhen Content is the primary basis of an advertising or sponsorship sale         you make, you must compensate Twitter, recoupable against any fees         payment to Twitter for data licensing.þ4.838709677419355
+295þb. Twitter reserves the right to serve advertising via Twitter APIs         (“Twitter Ads”).þ4.5
+296þIf you decide to serve Twitter Ads once we start         delivering them, we will share a portion of advertising revenue with         you in accordance with the relevant terms and conditions.þ4.5625
+297þII.þ1.5
+298þRules for Specific Twitter Services or Features¶  A. Twitter Login¶   1.þ4.916666666666667
+299þPresent users with easy to find options to log into and out of Twitter, for     example, via the OAuth protocol or Twitter Kit.þ3.8846153846153846
+300þ2.þ1.0
+301þProvide users without a Twitter account the opportunity to create a new     Twitter account.þ5.0
+302þ3.þ1.0
+303þDisplay the Connect with Twitter option at least as prominently as the most     prominent of any other third party social networking sign-up or sign-in     marks and branding appearing on your Service.þ5.09375
+304þB.þ1.0
+305þSocial Updates¶   1.þ4.0
+306þIf you allow users to create social updates from your own social service or     a third party social networking, micro-blogging, or status update provider     integrated into your Service ("Update"), you must display a prominent     option to publish that content to Twitter.þ4.591836734693878
+307þ2.þ1.0
+308þIf Updates are longer than 140 characters or not text, you must display a     prominent link to publish that content to Twitter and:      a. URLs must direct users to the page where that content is displayed.þ4.205128205128205
+309þYou         may require users to sign in to access that page, but the content must         not otherwise be restricted from being viewed.þ4.166666666666667
+310þb. URLs must not direct users to interstitial or intermediate pages.þ4.833333333333333
+311þC. Twitter Identity¶   1.þ4.0
+312þOnce a user has authenticated via Connect with Twitter via your Service,     you must clearly display the user’s Twitter identity via your Service.þ4.84
+313þTwitter identity includes visible display of the user’s avatar, Twitter     user name and the Twitter bird mark.þ4.842105263157895
+314þ2.þ1.0
+315þDisplays of the user’s followers on your Service must clearly show that the     relationship is associated with the Twitter Service.þ5.190476190476191
+316þD. Twitter Cards¶   1.þ3.4
+317þDevelop your Card to have the same quality experience across all platforms     where Cards are displayed.þ5.0588235294117645
+318þ2.þ1.0
+319þIf your Service provides a logged-in experience, the experience prior to a     user’s login must be of equivalent quality and user value.þ4.666666666666667
+320þ3.þ1.0
+321þMark your Card as ‘true’ for sensitive media if such media can be     displayed.þ4.2
+322þ4.þ1.0
+323þUse HTTPS for hosting all assets within your Card.þ4.2
+324þ5.þ1.0
+325þFor video and audio content:      a.þ3.25
+326þDefault to ‘sound off’ for videos that automatically play content.þ5.181818181818182
+327þb.þ1.0
+328þInclude stop or pause controls.þ4.5
+329þ6.þ1.0
+330þDo not do any of the following:      a.þ2.7
+331þExceed or circumvent Twitter’s limitations placed on any Cards,         including the Card’s intended use.þ5.3125
+332þb.þ1.0
+333þAttach the App Card to a user’s Tweet, unless the user is explicitly         promoting or referring to the app in the Tweet.þ3.9583333333333335
+334þc. Place third-party sponsored content within Cards without Twitter’s         prior approval.þ6.25
+335þd. Include content or actions within your Card that are not contextually         relevant to the user’s Tweet text and Tweet entities, such as URLs and         media.þ4.464285714285714
+336þe. Generate active mixed content browser warnings.þ5.5
+337þf. Attach monetary incentives or transactions (including virtual currency)         to activities that occur within the Card or on Twitter from your Card.þ4.96
+338þg. Apply for Cards access for domains you do not manage to prevent others         from registering or utilizing Cards on those domains.þ4.608695652173913
+339þE. Twitter for Websites¶           1.þ3.8333333333333335
+340þIf you expect your embedded Tweets and embedded timelines to exceed             10 million daily impressions, you must contact us about your             Twitter API access, as you may be subject to additional terms.þ4.571428571428571
+341þ2.þ1.0
+342þIf you use TFW widgets, you must ensure that an end user is             provided with clear and comprehensive information about, and             consents to, the storing and accessing of cookies or other             information on the end user’s device where providing such             information and obtaining such consent is required by law.þ4.679245283018868
+343þ3.þ1.0
+344þIf you operate a Service targeted to children under 13, you must             opt out of tailoring Twitter in any Twitter for Websites button,             embedded Tweet, or embedded timeline on your Service by setting the             opt-out parameter to be true.þ4.395348837209302
+345þF. Definitions¶           1.þ4.0
+346þContent ‒ Tweets, Tweet IDs, Twitter end user profile information,             and any other data and information made available to you through             the Twitter API or by any other means authorized by Twitter, and             any copies and derivative works thereof.þ4.5227272727272725
+347þ2.þ1.0
+348þDeveloper Site ‒ Twitter’s developer site located at https://             dev.twitter.com.þ5.3076923076923075
+349þ3.þ1.0
+350þTweet ‒ A short-form and/or multimedia-based posting that is             publicly displayed on Twitter Services.þ5.8
+351þ4.þ1.0
+352þTweet ID ‒ A unique identification number generated for each Tweet.þ4.75
+353þ5.þ1.0
+354þTwitter API ‒ The Twitter Application Programming Interface             (“API”), Software Development Kit (“SDK”) and/or the related             documentation, data, code, and other materials provided by Twitter,             as updated from time to time, including without limitation through             the Developer Site.þ4.857142857142857
+355þ6.þ1.0
+356þTwitter Marks ‒ The Twitter name, or logos that Twitter makes             available to you, including via the Developer Site.þ4.318181818181818
+357þ7.þ1.0
+358þService - Your websites, applications and other offerings that             display or otherwise use Content.þ5.1875
+359þ8.þ1.0
+360þUser ID - Unique identification numbers generated for each User             that do not contain any personally identifiable information such as             Twitter usernames or users’ names.þ5.461538461538462
+361þSolutionsþ9.0
