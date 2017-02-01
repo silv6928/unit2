@@ -26,10 +26,9 @@ from nltk import word_tokenize
 
 # Usage: PYTHONIOENCODING=UTF-8 python process-data.py > output.txt
 
-
+# CSV file building
 with codecs.open("twitter.txt", encoding='utf-8') as f:
-    # Your code here
-    output = open('output.csv', 'w')
+    output = open('twitter.csv', 'w')
     count = 0
     f = f.read()
     sent = sent_tokenize(f)
@@ -46,3 +45,23 @@ with codecs.open("twitter.txt", encoding='utf-8') as f:
         row_text = row_text.replace('\n', ' ')
         print(count, row_text, avg, sep='þ', file=output)
         count += 1
+# XML file building
+with open('twitter.csv', encoding='utf-8') as g:
+    # create a new output file for XML
+    output = open('twitter.xml', 'w')
+    # create the skeleton structure of the file
+    print("<document>", file=output)
+    print(" <sentences>", file=output)
+    for row_text in g:
+        # splitting the csv file
+        # print(row_text)
+        sent_num, sent_text, sent_avg = row_text.split("þ")
+        sent_avg = str(sent_avg)
+        sent_avg = sent_avg.replace('\n', '')
+        print("  <sentence id = " + '"' + sent_num + '"' + ">", file=output)
+        print("   <text>" + sent_text + "</text>", file=output)
+        print("   <avg>" + sent_avg + "</avg>", file=output)
+        print("  </sentence>", file=output)
+    # close out the file with the ending skeleton tags
+    print(" </sentences>", file=output)
+    print("</document>", file=output)
