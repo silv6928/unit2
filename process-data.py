@@ -58,8 +58,8 @@ with codecs.open("twitter.txt", encoding='utf-8') as f:
         word_count = [len(w) for w in tokens]
         sent_avg = sum(word_count) / len(word_count)
         sent_avg = str(avg)
-        # print to a csv called output
         sent_num = str(count)
+        # formatting
         row_text = row_text.replace('\n', ' ')
         sent_avg = sent_avg.replace('\n', ' ')
         sent_num = sent_num.replace('\n', ' ')
@@ -84,8 +84,8 @@ with codecs.open("twitter.txt", encoding='utf-8') as f:
         word_count = [len(w) for w in tokens]
         sent_avg = sum(word_count) / len(word_count)
         sent_avg = str(avg)
-        # print to a csv called output
         sent_num = str(count)
+        # formatting
         row_text = row_text.replace('\n', ' ')
         sent_avg = sent_avg.replace('\n', ' ')
         sent_num = sent_num.replace('\n', ' ')
@@ -93,11 +93,13 @@ with codecs.open("twitter.txt", encoding='utf-8') as f:
         print('    "avg":' + sent_avg)
         print('    "id":' + sent_num)
         print('    "text":' + row_text)
+        # if we are at the end of the file print a comma if not, don't print a comma
         if row_text == sent[-1]:
             print("   }")
         else:
             print("   },")
         count += 1
+    # finish by print out the ending tags
     print("  ]")
     print(" }")
     print("}")
